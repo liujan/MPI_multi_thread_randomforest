@@ -1,0 +1,2 @@
+# MPI_multi_thread_randomforest
+利用MPI来实现的多线程随机森林，用于分类
